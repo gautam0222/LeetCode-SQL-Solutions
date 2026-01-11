@@ -11,4 +11,5 @@ Full codes of all the SQL problems i solved on Leetcode
 | [1683-invalid-tweets](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->

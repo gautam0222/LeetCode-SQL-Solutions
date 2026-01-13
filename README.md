@@ -16,4 +16,5 @@ Full codes of all the SQL problems i solved on Leetcode
 | [1757-recyclable-and-low-fat-products](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1795-rearrange-products-table) |
+| [1873-calculate-special-bonus](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->

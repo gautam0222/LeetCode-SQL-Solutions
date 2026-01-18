@@ -7,6 +7,7 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0177-nth-highest-salary) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1683-invalid-tweets) |

@@ -12,6 +12,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0180-consecutive-numbers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0184-department-highest-salary) |
 | [0550-game-play-analysis-iv](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0550-game-play-analysis-iv) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1683-invalid-tweets) |

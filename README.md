@@ -18,6 +18,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0608-tree-node](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1070-product-sales-analysis-iii) |
+| [1158-market-analysis-i](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1158-market-analysis-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1683-invalid-tweets) |

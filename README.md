@@ -22,6 +22,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [1164-product-price-at-a-given-date](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1683-invalid-tweets) |

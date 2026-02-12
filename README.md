@@ -41,6 +41,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [1978-employees-whose-manager-left-the-company](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3220-odd-and-even-transactions) |
+| [3421-find-students-who-improved](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3436-find-valid-emails) |
 | [3570-find-books-with-no-available-copies](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->

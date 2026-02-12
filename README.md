@@ -43,5 +43,6 @@ Full codes of all the SQL problems i solved on Leetcode
 | [3220-odd-and-even-transactions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3436-find-valid-emails) |
+| [3475-dna-pattern-recognition](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3475-dna-pattern-recognition) |
 | [3570-find-books-with-no-available-copies](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->

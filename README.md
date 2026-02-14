@@ -44,5 +44,6 @@ Full codes of all the SQL problems i solved on Leetcode
 | [3421-find-students-who-improved](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3436-find-valid-emails) |
 | [3475-dna-pattern-recognition](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3475-dna-pattern-recognition) |
+| [3497-analyze-subscription-conversion](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3497-analyze-subscription-conversion) |
 | [3570-find-books-with-no-available-copies](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->

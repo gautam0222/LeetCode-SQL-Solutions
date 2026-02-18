@@ -14,6 +14,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0550-game-play-analysis-iv](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0585-investments-in-2016) |
+| [0601-human-traffic-of-stadium](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1045-customers-who-bought-all-products) |

@@ -50,4 +50,12 @@ Full codes of all the SQL problems i solved on Leetcode
 | [3554-find-category-recommendation-pairs](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3554-find-category-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3570-find-books-with-no-available-copies) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->

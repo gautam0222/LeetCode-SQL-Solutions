@@ -54,8 +54,13 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->

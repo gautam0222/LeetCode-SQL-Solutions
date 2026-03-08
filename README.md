@@ -63,4 +63,16 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

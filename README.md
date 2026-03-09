@@ -67,6 +67,7 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,9 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

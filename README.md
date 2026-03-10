@@ -55,6 +55,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | ------- |
 | [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -81,4 +83,8 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->

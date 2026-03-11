@@ -87,4 +87,8 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->

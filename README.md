@@ -56,6 +56,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +94,9 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0077-combinations](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

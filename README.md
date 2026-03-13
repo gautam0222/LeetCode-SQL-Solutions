@@ -71,6 +71,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,4 +100,8 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->

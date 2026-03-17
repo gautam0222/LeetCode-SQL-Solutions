@@ -111,4 +111,5 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->

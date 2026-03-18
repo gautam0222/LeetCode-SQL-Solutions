@@ -61,10 +61,12 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +87,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +116,8 @@ Full codes of all the SQL problems i solved on Leetcode
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

@@ -115,6 +115,7 @@ Full codes of all the SQL problems i solved on Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0086-partition-list) |
@@ -122,4 +123,12 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

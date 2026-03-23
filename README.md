@@ -76,6 +76,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,4 +132,12 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3354-make-array-elements-equal-to-zero](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [3354-make-array-elements-equal-to-zero](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->

@@ -53,6 +53,7 @@ Full codes of all the SQL problems i solved on Leetcode
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
@@ -87,6 +88,7 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
 ## Matrix
@@ -138,6 +140,7 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |

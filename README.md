@@ -58,6 +58,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | ------- |
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
 |  |
 | ------- |

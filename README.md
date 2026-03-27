@@ -58,6 +58,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
+| [0409-longest-palindrome](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0409-longest-palindrome) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
@@ -92,6 +93,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0013-roman-to-integer](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
+| [0409-longest-palindrome](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0409-longest-palindrome) |
 ## Matrix
 |  |
 | ------- |
@@ -163,4 +165,8 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->

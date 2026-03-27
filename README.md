@@ -59,6 +59,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
 | [0409-longest-palindrome](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0412-fizz-buzz) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
@@ -145,6 +146,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0412-fizz-buzz) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Recursion
 |  |
@@ -153,6 +155,7 @@ Full codes of all the SQL problems i solved on Leetcode
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0412-fizz-buzz) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Prefix Sum

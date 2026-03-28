@@ -83,6 +83,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
+| [0414-third-maximum-number](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0414-third-maximum-number) |
 | [2906-construct-product-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -172,4 +173,8 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0409-longest-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->

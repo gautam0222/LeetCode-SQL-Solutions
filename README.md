@@ -69,6 +69,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | ------- |
 | [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
+| [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
 | [0414-third-maximum-number](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0414-third-maximum-number) |
+| [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -162,6 +164,7 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0412-fizz-buzz) |
+| [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Prefix Sum
@@ -182,5 +185,6 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0414-third-maximum-number) |
+| [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 <!---LeetCode Topics End-->

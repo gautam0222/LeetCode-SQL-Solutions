@@ -80,6 +80,7 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
@@ -134,6 +135,7 @@ Full codes of all the SQL problems i solved on Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0086-partition-list) |
@@ -180,6 +182,7 @@ Full codes of all the SQL problems i solved on Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |

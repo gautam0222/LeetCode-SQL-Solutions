@@ -55,6 +55,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | ------- |
 | [0012-integer-to-roman](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
@@ -68,6 +69,7 @@ Full codes of all the SQL problems i solved on Leetcode
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
 | [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |

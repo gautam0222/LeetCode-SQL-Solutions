@@ -97,6 +97,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
 | [0414-third-maximum-number](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0414-third-maximum-number) |
+| [0874-walking-robot-simulation](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0874-walking-robot-simulation) |
 | [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -112,6 +113,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0874-walking-robot-simulation](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Matrix
 |  |
@@ -182,6 +184,7 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0412-fizz-buzz) |
+| [0874-walking-robot-simulation](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |

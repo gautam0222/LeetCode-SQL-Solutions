@@ -56,6 +56,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0012-integer-to-roman](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0076-minimum-window-substring) |
@@ -77,6 +78,7 @@ Full codes of all the SQL problems i solved on Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -134,6 +136,7 @@ Full codes of all the SQL problems i solved on Leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
 ## Depth-First Search

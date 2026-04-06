@@ -160,6 +160,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0086-partition-list) |
@@ -180,6 +181,7 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Simulation
 |  |
 | ------- |

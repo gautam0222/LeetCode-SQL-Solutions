@@ -104,6 +104,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0423-reconstruct-original-digits-from-english](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0874-walking-robot-simulation](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
 |  |
 | ------- |

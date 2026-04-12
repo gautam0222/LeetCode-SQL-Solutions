@@ -64,6 +64,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0409-longest-palindrome](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -81,6 +82,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0022-generate-parentheses](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Array
 |  |

@@ -84,6 +84,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0085-maximal-rectangle](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0085-maximal-rectangle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2463-minimum-total-distance-traveled](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 ## Array
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0414-third-maximum-number](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0414-third-maximum-number) |
 | [0874-walking-robot-simulation](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2463-minimum-total-distance-traveled](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -223,6 +225,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0016-3sum-closest](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0018-4sum) |
 | [0414-third-maximum-number](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0414-third-maximum-number) |
+| [2463-minimum-total-distance-traveled](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Divide and Conquer

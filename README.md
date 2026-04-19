@@ -105,6 +105,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0414-third-maximum-number](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0414-third-maximum-number) |
 | [0874-walking-robot-simulation](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2463-minimum-total-distance-traveled](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |
@@ -144,6 +145,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0086-partition-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Linked List
 |  |
 | ------- |

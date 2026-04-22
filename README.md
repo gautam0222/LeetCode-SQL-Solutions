@@ -68,6 +68,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Stack
@@ -106,6 +107,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0874-walking-robot-simulation](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0874-walking-robot-simulation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2751-robot-collisions) |
@@ -252,4 +254,8 @@ Full codes of all the SQL problems i solved on Leetcode
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0029-divide-two-integers) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->

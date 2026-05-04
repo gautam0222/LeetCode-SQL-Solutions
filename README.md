@@ -98,6 +98,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0018-4sum](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
@@ -135,6 +136,7 @@ Full codes of all the SQL problems i solved on Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0079-word-search) |
@@ -196,6 +198,7 @@ Full codes of all the SQL problems i solved on Leetcode
 | [0012-integer-to-roman](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gautam0222/LeetCode-SQL-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
